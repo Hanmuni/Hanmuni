@@ -11,7 +11,7 @@ I am a Frontend Developer with experience in building web apps with JavaScript &
 * 🖥️  See my portfolio at [www.honghanh-chu.de](https://honghanh-chu.de/)
 * ✉️  You can contact me at [mail@honghanh-chu.de](mailto:mail@honghanh-chu.de)
 * 🧠  I'm learning Web development
-* 🤝  I'm open to collaborating on Projects
+* 🤝  I'm open to collaborating on projects, coding challenges and coding interview preparation
 * ⚡  The One Piece Is Real
 
 ### Skills
