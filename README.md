@@ -1,4 +1,4 @@
-Hi ! I am Hong-Hanh, Chu [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hong-Hanh, Chu
 ======================================================================================================================================
 
 Frontend Developer
@@ -7,7 +7,7 @@ Frontend Developer
 I am a Frontend Developer with experience in building web apps with JavaScript & ÏAngular.
 
 * 🌍  I'm based in Germany
-* 🖥️  See my portfolio at [www.honghanh-chu.de](http://honghanh-chu.de/)
+* 🖥️  See my portfolio at [www.honghanh-chu.de](https://honghanh-chu.de/)
 * ✉️  You can contact me at [mail@honghanh-chu.de](mailto:mail@honghanh-chu.de)
 * 🧠  I'm learning Web development
 * 🤝  I'm open to collaborating on Projects
