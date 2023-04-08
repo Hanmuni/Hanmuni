@@ -5,7 +5,7 @@ My name is Hong-Hanh, Chu
 Frontend Developer
 ------------------
 
-I am a Frontend Developer with experience in building web apps with JavaScript & ÏAngular.
+I am a Frontend Developer with experience in building web apps with JavaScript & Angular.
 
 * 🌍  I'm based in Germany
 * 🖥️  See my portfolio at [www.honghanh-chu.de](https://honghanh-chu.de/)
