@@ -10,8 +10,8 @@ I am a Frontend Developer with experience in building web apps with JavaScript &
 * 🌍  I'm based in Germany
 * 🖥️  See my portfolio at [www.honghanh-chu.de](https://honghanh-chu.de/)
 * ✉️  You can contact me at [mail@honghanh-chu.de](mailto:mail@honghanh-chu.de)
-* 🧠  I'm learning Web development
-* 🤝  I'm open to collaborating on projects, coding challenges and coding interview preparation
+* 🧠  I'm learning Web development, Java and Spring Boot.
+* 🤝  I'm open to collaborating on projects and going out to eat something yummy.
 * ⚡  The One Piece Is Real
 
 ### Skills
