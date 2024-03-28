@@ -5,7 +5,7 @@ I am Hong-Hanh Chu
 Fullstack IT-Girl
 ------------------
 
-As a full-time Software Developer, I thrive in the vibrant world of technology, where I transform ideas into reality with style and sophistication.
+As a full-time professional Software Developer, I thrive in the vibrant world of technology, where I transform ideas into reality with style and sophistication.
 
 * 🌍  I'm based in Germany
 * 🖥️  See my portfolio at [www.honghanh-chu.de](https://honghanh-chu.de/)
