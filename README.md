@@ -1,11 +1,11 @@
 Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <br><br>
-My name is Hong-Hanh Chu
+I am Hong-Hanh Chu
 ======================================================================================================================================
 
-Software Developer
+Fullstack IT-Girl
 ------------------
 
-I'm a professional Software Developer working full-time.
+As a full-time Software Developer, I thrive in the vibrant world of technology, where I transform ideas into reality with style and sophistication.
 
 * 🌍  I'm based in Germany
 * 🖥️  See my portfolio at [www.honghanh-chu.de](https://honghanh-chu.de/)
